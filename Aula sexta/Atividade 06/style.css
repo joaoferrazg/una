@@ -1,0 +1,43 @@
+
+header{
+    background-color:orangered;
+    width: 15.37em;
+    background-position: center;
+    border-radius: 10px 10px 0 0;
+    border-color:#000000;
+    text-align: center;
+    text-shadow: 1px 0 0 #000000;
+    font-size: 3em;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    background-color:orangered;
+    width: 47em;
+    background-position: center;
+    color:white;
+    text-shadow: 1px 0 0 #000000;
+    border-radius: 0 0 10px 10px;
+    padding: 0.5em;
+}
+.inside-footer{
+    display: flex;
+}
+
+  .container {
+    background-color:#000000;
+    width: 48em;
+    display: flex;
+    padding: 0em;
+    border: 10px;;
+    flex-wrap: wrap;
+  }
+  .container img{
+    width: 150px;
+    height: 250px;
+}
+
+  .filme{
+      padding:1em;
+  }
