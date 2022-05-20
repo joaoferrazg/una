@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+  }
+  
+  .signup-form form {
+    color: white;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    background: white;
+    padding: 30px;
+    width: 50%;
+    margin: auto;
+}
