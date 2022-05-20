@@ -1,0 +1,39 @@
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  background-color: orangered;
+  
+
+}
+
+.grid-container > div {
+  background-color: #5a5e9e;
+  text-align: center;
+  padding: 20px 0;
+  color: white;
+  }
+  .wrapper{
+    background-color: orangered;   
+    padding: 10px;
+    margin: auto;
+    width: 50%;
+    justify-content: center;
+
+  }
+  .redirect {
+    background-color: #2700b3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 4px;
+    
+  }
+  

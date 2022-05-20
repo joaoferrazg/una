@@ -1,0 +1,11 @@
+div {
+  align-self: center;
+  align-items: left;
+  margin: auto;
+  background-color: beige;
+  font-family: 'Times New Roman', Times, serif;
+  margin-right: 1200px;
+  margin-left: 400px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
