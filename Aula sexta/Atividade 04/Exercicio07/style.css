@@ -1,0 +1,67 @@
+div {
+    margin-left: 20%;
+}
+
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 60%;
+    border-collapse: collapse;
+}
+
+#header{
+    background-color: #3a5997;
+    font-size: 1.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    height: 3rem;
+}
+
+.td-align-left {
+    text-align: left;
+    border: #647cae 1px solid;
+    padding-left: 0.5rem;
+
+}
+.td-align-left:hover {
+    color: orangered;
+    font-weight: bold;
+
+}
+
+.discipline {
+    background-color: white;
+    border: #647cae 1px solid;
+    font-weight: bold;
+    color: #3a5997;
+    text-align:left;
+    vertical-align: top;
+    width: 25%;
+    height: 15rem;
+    padding: 0.5rem;
+}
+.discipline:hover {
+    background-color: orangered;
+    color: white;
+}
+
+tr:nth-child(2n) {
+    background-color: #8b9dc3;
+}
+
+tr:nth-child(2n+1) {
+    background-color: #dfe3ee;
+} 
+.average{
+    background-color: orangered;
+    color: white;
+    border: #647cae 1px solid;
+    padding-left: 0.5rem;
+}
+
+.average:hover{
+    background-color: white;
+    color: orangered;
+    font-weight: bold;
+
+}

@@ -1,0 +1,19 @@
+body{
+    justify-content: center;
+    align-items: center;
+    padding: 10px
+}
+.container{
+    max-width: 800px;
+    width: 40%;
+    height: 450px;
+    border: black 5px solid;
+    margin: auto;
+}
+.align-left{
+    display: inline-block;
+    width: auto;
+    float: right;
+}
+
+
